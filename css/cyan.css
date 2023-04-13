@@ -7601,7 +7601,7 @@ body {
   list-style: none;
 }
   .features-list li {
-    float: left;
+    float: right;
     width: 50%;
     margin-top: 0;
     margin-bottom: 1.75rem;
