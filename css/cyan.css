@@ -7608,13 +7608,13 @@ body {
     font-size: 1.05rem;
     padding-left: 1.75rem;
     font-weight: 500; }
-    .features-list li:before {
+    /* .features-list li:before {
       position: relative;
       font-family: FontAwesome;
       font-size: 14px;
       content: "\f10c";
       color: #00e5ff;
-      margin: 0 .75rem 0 0; }
+      margin: 0 .75rem 0 0; } */
 
 /*Pricing tables*/
 .pricing-table .pricing-list {
